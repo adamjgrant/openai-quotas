@@ -16,3 +16,7 @@ Note: "request" refers to it running the actual deep research agents. If you see
 - Free: Unavailable
 
 # Advanced Voice
+- Pro: Unlimited[^1]
+
+[^1]: https://the-decoder.com/chatgpts-deep-research-feature-gets-an-upgrade-and-becomes-widely-available/
+
