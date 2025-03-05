@@ -38,8 +38,8 @@ Note: "request" refers to it running the actual deep research agents. If you see
 
 # o3
 - Pro: ?
-- Plus: ?
-- Free: ?
+- Plus: Unavailable
+- Free: Unavailable
 
 # Advanced Voice
 - Pro: Unlimited[^3] 30 minutes per month[^4]
