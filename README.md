@@ -29,6 +29,6 @@ Note: "request" refers to it running the actual deep research agents. If you see
 # Additional Notes
 Usage limits may be adjusted dynamically based on server load. If you experience reduced access despite your plan, check OpenAI's latest updates.
 
-[^1]: https://openai.com/chatgpt/pricing/?utm_source=chatgpt.com
+[^1]: https://www.tomsguide.com/ai/chatgpt/chatgpt-plus-just-got-a-huge-deep-research-upgrade-how-to-try-it-now
 [^2]: https://the-decoder.com/chatgpts-deep-research-feature-gets-an-upgrade-and-becomes-widely-available/
 [^3]: https://openai.com/chatgpt
