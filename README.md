@@ -2,7 +2,8 @@
 Just documenting usage limits and quotas and things for OpenAI since they won't.
 This applies to chatgpt.com and ChatGPT first-party apps, not the API.
 
-_Last updated 2025 March 5._
+_🕰️ Last updated 2025 March 5._
+
 Help Adam and your fellow AI community to keep this accurate. **Create a pull request with a source for changes**.
 
 # Deep Research
