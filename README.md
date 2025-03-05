@@ -16,6 +16,26 @@ Note: "request" refers to it running the actual deep research agents. If you see
 - Plus: 50 requests per week[^2]
 - Free: Unavailable
 
+# o1
+- Pro: ?
+- Plus: ?
+- Free: ?
+
+# o3-mini
+- Pro: ?
+- Plus: ?
+- Free: ?
+
+# o3-mini-high
+- Pro: ?
+- Plus: ?
+- Free: ?
+
+# o3
+- Pro: ?
+- Plus: ?
+- Free: ?
+
 # Advanced Voice
 - Pro: Unlimited[^3] 30 minutes per month[^4]
 - Plus: Standard access with some limits[^3] 15 minutes per month[^4]
