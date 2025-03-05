@@ -17,14 +17,19 @@ Note: "request" refers to it running the actual deep research agents. If you see
 - Free: Unavailable
 
 # o1
-- Pro: ?
-- Plus: ?
-- Free: ?
+- Pro, Team, Enterprise: 50 messages a week[^6] 
+- Plus: 50 messages a week[^6] 
+- Free: 50 messages a week[^6]
+
+# o1-mini
+- Pro, Team, Enterprise: 50 messages a day[^6] 
+- Plus: 50 messages a day[^6] 
+- Free: 50 messages a day[^6] 
 
 # o3-mini
-- Pro: ?
-- Plus: ?
-- Free: ?
+- Pro: Available[^6] Limit?
+- Plus: Available[^6] Limit?
+- Free: Available[^6] Limit?
 
 # o3-mini-high
 - Pro: ?
@@ -54,4 +59,5 @@ Usage limits may be adjusted dynamically based on server load. If you experience
 [^3]: https://www.neowin.net/news/chatgpts-advanced-voice-mode-comes-to-free-users-with-usage-limits/
 [^4]: https://www.ghacks.net/2025/02/26/openai-introduces-advanced-voice-mode-preview-for-free-chatgpt-users/
 [^5]: Unclear as OpenAI has not published specific numbers recently. According to [this message](https://community.openai.com/t/is-there-a-limit-to-chatgpt-4o/764605) from the company back in May 2024, the limits were "Plus users can send up to 80 messages every 3 hours on GPT-4o and up to 40 messages every 3 hours on GPT-4" Given we're now in the era of o1, o3, and deep research, these numbers have likely increased significantly for those plans. Expect seemlingly unlimited use for paid plans and adequate use for free.
+[^6]: https://help.openai.com/en/articles/9824962-openai-o1-o1-mini-and-o3-mini-usage-limits-on-chatgpt-and-the-api
 
