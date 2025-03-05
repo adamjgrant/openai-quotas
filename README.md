@@ -17,9 +17,9 @@ Note: "request" refers to it running the actual deep research agents. If you see
 - Free: Unavailable
 
 # Advanced Voice
-- Pro: Unlimited[^3]
-- Plus: Standard access with some limits[^3]
-- Free: Limited access[^3], uses GPT-4o mini[^2]
+- Pro: Unlimited[^3] 30 minutes per month[^4]
+- Plus: Standard access with some limits[^3] 15 minutes per month[^4]
+- Free: Limited access[^3], uses GPT-4o mini[^2] 15 minutes per month[^4]
 
 # GPT-4o
 - Pro: Unlimited access[^2]
@@ -32,3 +32,5 @@ Usage limits may be adjusted dynamically based on server load. If you experience
 [^1]: https://www.tomsguide.com/ai/chatgpt/chatgpt-plus-just-got-a-huge-deep-research-upgrade-how-to-try-it-now
 [^2]: https://the-decoder.com/chatgpts-deep-research-feature-gets-an-upgrade-and-becomes-widely-available/
 [^3]: https://www.neowin.net/news/chatgpts-advanced-voice-mode-comes-to-free-users-with-usage-limits/
+[^4]: https://www.ghacks.net/2025/02/26/openai-introduces-advanced-voice-mode-preview-for-free-chatgpt-users/
+
