@@ -19,7 +19,7 @@ Note: "request" refers to it running the actual deep research agents. If you see
 # Advanced Voice
 - Pro: Unlimited[^3]
 - Plus: Standard access with some limits[^3]
-- Free: Limited access[^3]
+- Free: Limited access[^3], uses GPT-4o mini[^2]
 
 # GPT-4o
 - Pro: Unlimited access[^2]
