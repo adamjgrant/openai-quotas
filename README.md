@@ -31,4 +31,4 @@ Usage limits may be adjusted dynamically based on server load. If you experience
 
 [^1]: https://www.tomsguide.com/ai/chatgpt/chatgpt-plus-just-got-a-huge-deep-research-upgrade-how-to-try-it-now
 [^2]: https://the-decoder.com/chatgpts-deep-research-feature-gets-an-upgrade-and-becomes-widely-available/
-[^3]: https://openai.com/chatgpt
+[^3]: https://www.neowin.net/news/chatgpts-advanced-voice-mode-comes-to-free-users-with-usage-limits/
