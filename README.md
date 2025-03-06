@@ -19,11 +19,13 @@ Note: "request" refers to it running the actual deep research agents. If you see
 - Free: Unavailable
 
 # o1
+32K context window[^11]
 - Pro: "Near unlimited"[^6] 
 - Plus, team, enterprise: 50 messages a week[^6] 
-- Free: 50 messages a week[^6]
+- Free: Unavailable
 
 # o1-mini
+32K context window[^11]
 - Pro: "Near unlimited"[^6] 
 - Plus, Team, Enterprise: 50 messages a day[^6] 
 - Free: 50 messages a day[^6] 
@@ -67,3 +69,4 @@ Usage limits may be adjusted dynamically based on server load. If you experience
 [^8]: https://www.techtarget.com/WhatIs/feature/OpenAI-o3-explained-Everything-you-need-to-know
 [^9]: https://www.zdnet.com/article/openai-expands-gpt-4-5-rollout-heres-how-to-access-and-what-it-can-do-for-you/
 [^10]: https://xcancel.com/openai/status/1889822643676913977?s=46
+[^11]: https://help.openai.com/en/articles/9855712-openai-o1-models-faq-chatgpt-enterprise-and-edu
