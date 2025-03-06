@@ -56,6 +56,12 @@ Currently only available within the execution of a Deep Research job[^8]
 - Plus: Extended usage limits[^2][^5]
 - Free: Limited access[^2][^5]
 
+# App Integration
+## Directly edit in IDE
+- Pro: Available[^12]
+- Plus: Available[^12]
+- Free: "Coming soon" as of 2025 March 6[^12]
+
 # Additional Notes
 Usage limits may be adjusted dynamically based on server load. If you experience reduced access despite your plan, check OpenAI's latest updates.
 
@@ -70,3 +76,4 @@ Usage limits may be adjusted dynamically based on server load. If you experience
 [^9]: https://www.zdnet.com/article/openai-expands-gpt-4-5-rollout-heres-how-to-access-and-what-it-can-do-for-you/
 [^10]: https://xcancel.com/openai/status/1889822643676913977?s=46
 [^11]: https://help.openai.com/en/articles/9855712-openai-o1-models-faq-chatgpt-enterprise-and-edu
+[^12]: https://xcancel.com/OpenAI/status/1897702764471619657#m
