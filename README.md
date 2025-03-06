@@ -35,7 +35,7 @@ Note: "request" refers to it running the actual deep research agents. If you see
 
 # o3-mini-high
 - Pro: Unlimited access[^7]
-- Plus: Available[^7] Limits?
+- Plus: 50 messages/day[^9]
 - Free: Unavailable.
 
 # o3
@@ -66,4 +66,4 @@ Usage limits may be adjusted dynamically based on server load. If you experience
 [^7]: https://www.godofprompt.ai/blog/chatgpt-o3-mini
 [^8]: https://www.techtarget.com/WhatIs/feature/OpenAI-o3-explained-Everything-you-need-to-know
 [^9]: https://www.zdnet.com/article/openai-expands-gpt-4-5-rollout-heres-how-to-access-and-what-it-can-do-for-you/
-
+[^10]: https://xcancel.com/openai/status/1889822643676913977?s=46
