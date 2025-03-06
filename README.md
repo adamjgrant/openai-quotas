@@ -14,7 +14,7 @@ Help Adam and your fellow AI community to keep this accurate. **Create a pull re
 Note: "request" refers to it running the actual deep research agents. If you see the UI with the progress bar come up, you are using a request from your quota. Asking follow-up questions just uses the model you have selected.
 
 # GPT-4.5
-- Pro: Unlimited requests per week[^2]
+- Pro: Unannounced limits but higher than plus tier[^9]
 - Plus: 50 requests per week[^2]
 - Free: Unavailable
 
@@ -65,5 +65,5 @@ Usage limits may be adjusted dynamically based on server load. If you experience
 [^6]: https://help.openai.com/en/articles/9824962-openai-o1-o1-mini-and-o3-mini-usage-limits-on-chatgpt-and-the-api
 [^7]: https://www.godofprompt.ai/blog/chatgpt-o3-mini
 [^8]: https://www.techtarget.com/WhatIs/feature/OpenAI-o3-explained-Everything-you-need-to-know
-
+[^9]: https://www.zdnet.com/article/openai-expands-gpt-4-5-rollout-heres-how-to-access-and-what-it-can-do-for-you/
 
