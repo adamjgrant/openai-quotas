@@ -2,7 +2,7 @@
 Just documenting usage limits and quotas and things for OpenAI since they won't.
 This applies to chatgpt.com and ChatGPT first-party apps, not the API.
 
-_🕰️ Last updated 2025 March 5._
+_🕰️ Last updated 2025 March 6._
 
 Help Adam and your fellow AI community to keep this accurate. **Create a pull request with a source for changes**.
 
@@ -19,13 +19,13 @@ Note: "request" refers to it running the actual deep research agents. If you see
 - Free: Unavailable
 
 # o1
-- Pro, Team, Enterprise: 50 messages a week[^6] 
-- Plus: 50 messages a week[^6] 
+- Pro: "Near unlimited"[^6] 
+- Plus, team, enterprise: 50 messages a week[^6] 
 - Free: 50 messages a week[^6]
 
 # o1-mini
-- Pro, Team, Enterprise: 50 messages a day[^6] 
-- Plus: 50 messages a day[^6] 
+- Pro: "Near unlimited"[^6] 
+- Plus, Team, Enterprise: 50 messages a day[^6] 
 - Free: 50 messages a day[^6] 
 
 # o3-mini
@@ -50,7 +50,7 @@ Currently only available within the execution of a Deep Research job[^8]
 - Free: Limited access[^3], uses GPT-4o mini[^2] 15 minutes per month[^4]
 
 # GPT-4o
-- Pro: Unlimited access[^2]
+- Pro: "Near unlimited[^2][^6]
 - Plus: Extended usage limits[^2][^5]
 - Free: Limited access[^2][^5]
 
