@@ -2,7 +2,7 @@
 Just documenting usage limits and quotas and things for OpenAI since they won't.
 This applies to chatgpt.com and ChatGPT first-party apps, not the API.
 
-_🕰️ Last updated 2025 March 6._
+_🕰️ Last updated 2025 March 7._
 
 Help Adam and your fellow AI community to keep this accurate. **Create a pull request with a source for changes**.
 
@@ -47,8 +47,8 @@ Currently only available within the execution of a Deep Research job[^8]
 - Free: Unavailable
 
 # Advanced Voice
-- Pro: Unlimited[^3] 30 minutes per month[^4]
-- Plus: Standard access with some limits[^3] 15 minutes per month[^4]
+- Pro: Unlimited[^3] 30 minutes per day[^4]
+- Plus: Standard access with some limits[^3] 15 minutes per day[^4]
 - Free: Limited access[^3], uses GPT-4o mini[^2] 15 minutes per month[^4]
 
 # GPT-4o
